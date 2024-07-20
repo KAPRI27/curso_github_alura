@@ -5,3 +5,5 @@ Editando el Readme
 (ejemplo de instrucciones de un Readme)
 para correr el programa debes instalar 
 ```npm install```
+
+Agregando un commit para utilizar el comando pull 
